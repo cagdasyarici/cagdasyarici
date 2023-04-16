@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağdaş</h1>
 <h3 align="center">A passionate .Net developer from Turkey</h3>
 
-<h4 align="center">I started my journey in the software world with game programming, and later learned 3D modeling with Blender. In order to learn the fundamentals of programming, I attended the BilgeAdam Star Developer Camp and continued my career as a .Net developer. I am steadily progressing towards becoming a Fullstack Developer. During this process, I am someone who creates brand new projects and learns everything I can, using every last drop of my time.</h4>
+<h4 align="center">I started my journey in the software world with game programming, and later learned 3D modeling with Blender. In order to learn the fundamentals of programming, I attended the BilgeAdam Boost Star Trainee Software Developer Program (660+ Hours) and continued my career as a .Net developer. I am steadily progressing towards becoming a Fullstack Developer. During this process, I am someone who creates brand new projects and learns everything I can, using every last drop of my time.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
